@@ -35,7 +35,7 @@ body {
     float: none !important;
     background-color: #FFFFFF; /* It's #5368C1 on KARL */
     color: #000000;
-    max-width: 1279.5px; /* Don't make website wide */
+    max-width: 100%; /*1279.5px;  Don't make website wide */
 }
 
 /*
